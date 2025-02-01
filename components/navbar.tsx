@@ -30,7 +30,7 @@ export function Navbar() {
             Team
           </Link>
           <Link href="#" className="text-gray-600 hover:text-black transition-colors">
-            FAQs
+            Chatbot
           </Link>
           <Link href="#" className="text-gray-600 hover:text-black transition-colors">
             Contact Us
